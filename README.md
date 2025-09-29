@@ -13,7 +13,7 @@
  <a href="#features">Features</a> •
  <a href="#tech-stack">Tech Stack</a> •  
  <a href="#license">License</a> •  
- <a href="#get-in-touch">Contact</a> • 
+ <a href="#get-in-touch">Contact</a>
  
 </p>
 
