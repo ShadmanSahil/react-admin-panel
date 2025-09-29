@@ -45,10 +45,10 @@ I also explored <strong>Chakra UI</strong> for theming and styling, and <strong>
 ![Dashboard](./screenshots/dashboard.png)  
 
 #### Reviews Grid View  
-![Reviews Grid](./screenshots/reviewsgrid.png)  
+![Reviews Grid](./screenshots/gridview.png)  
 
 #### Reviews List View  
-![Reviews Grid](./screenshots/reviewslist.png)  
+![Reviews Grid](./screenshots/listview.png)  
 
 #### Users List View  
 ![Users List](./screenshots/users.png)  
