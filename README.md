@@ -39,19 +39,19 @@ I also explored <strong>Chakra UI</strong> for theming and styling, and <strong>
 ## Screenshots  
 
 #### Login  
-![Login Page](./screenshots/login.png)  
+<img src="./screenshots/login.png" alt="Login Page" width="400"/>
 
 #### Dashboard  
-![Dashboard](./screenshots/dashboard.png)  
+<img src="./screenshots/dashboard.png" alt="Dashboard Page" width="400"/>
 
 #### Reviews Grid View  
-![Reviews Grid](./screenshots/gridview.png)  
+<img src="./screenshots/gridview.png" alt="Reviews Grid Page" width="400"/>
 
 #### Reviews List View  
-![Reviews Grid](./screenshots/listview.png)  
+<img src="./screenshots/listview.png" alt="Reviews List Page" width="400"/>
 
 #### Users List View  
-![Users List](./screenshots/users.png)  
+<img src="./screenshots/users.png" alt="Users Page" width="400"/>
 
 
 
