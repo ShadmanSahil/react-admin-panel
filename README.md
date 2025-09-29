@@ -23,7 +23,7 @@ This project was built as part of my learning journey in frontend development wi
 
 I also explored <strong>Chakra UI</strong> for theming and styling, and <strong>Recharts.js</strong> for data visualization. While the core functionality is complete, the codebase is currently being refactored and cleaned up for improved readability and maintainability.
 
----
+
 
 ## Features
 
@@ -34,7 +34,7 @@ I also explored <strong>Chakra UI</strong> for theming and styling, and <strong>
 - [x] List View: table-style layout adapted to display user details.
 - [x] Client-Side Routing → smooth navigation between pages using React Router.
       
----
+
 
 ## Screenshots  
 
@@ -44,18 +44,15 @@ I also explored <strong>Chakra UI</strong> for theming and styling, and <strong>
 #### Dashboard  
 <img src="./screenshots/dashboard.png" alt="Dashboard Page" width="400"/>
 
-#### Reviews Grid View  
-<img src="./screenshots/gridview.png" alt="Reviews Grid Page" width="400"/>
+#### Reviews  
+<img src="./screenshots/gridview.png" alt="Reviews Grid Page" width="400"/> <img src="./screenshots/listview.png" alt="Reviews List Page" width="400"/>
 
-#### Reviews List View  
-<img src="./screenshots/listview.png" alt="Reviews List Page" width="400"/>
-
-#### Users List View  
+#### Users
 <img src="./screenshots/users.png" alt="Users Page" width="400"/>
 
 
 
-### Pre-requisites
+## Pre-requisites
 
 Before you begin, you will need to have <a href="https://nodejs.org/en/">Node.js</a> installed.
 Additionally, it is good to have an editor to work with the code like <a href="https://code.visualstudio.com">VSCode</a>
@@ -80,7 +77,7 @@ $ npm run dev
 
 ```
 
----
+
 
 ## Tech Stack
 
@@ -97,7 +94,7 @@ The following tools were used in the construction of the project:
 
 > See the file [package.json](https://github.com/ShadmanSahil/react-admin-panel/package.json)
 
----
+
 
 ## License
 
