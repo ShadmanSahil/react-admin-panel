@@ -83,7 +83,7 @@ $ npm run dev
 
 The following tools were used in the construction of the project:
 
-#### **Platform** ([React](https://reactjs.org/) + [TypeScript](https://www.typescriptlang.org/))
+#### **Platform** ([React](https://reactjs.org/) + [Javascript](https://www.javascript.com))
 
 - [React Dom](https://www.npmjs.com/package/react-dom)
 - [React Router Dom](https://reactrouter.com)
@@ -92,7 +92,7 @@ The following tools were used in the construction of the project:
 - [Vite](https://vite.dev)
 - [Visual Studio Code](https://code.visualstudio.com/)
 
-> See the file [package.json](https://github.com/ShadmanSahil/react-admin-panel/package.json)
+> See the file [package.json](https://github.com/ShadmanSahil/react-admin-panel/blob/main/package.json)
 
 
 
@@ -102,6 +102,6 @@ This project is under the license [MIT](./LICENSE).
 
 ## Get in Touch!
 
-👋🏽 [Say Hi!](https://www.linkedin.com/in/evelinsteiger/)
+👋🏽 [Say Hi!](https://www.linkedin.com/in/shadmansahil/)
 
 
